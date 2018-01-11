@@ -3,7 +3,7 @@
 ### R Basics
 
 #R console example
-2+3
+7+9
 2*3
 
 #R editor example
